@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Riemannian Geometry with GA - A Mathematica code
+message: 'If you use this software, please cite it as below'
+type: software
+authors:
+  - given-names: Pablo
+    family-names: Bañón Pérez
+    email: pau.banon@gmail.com
+    affiliation: Heidelberg University
+    orcid: 'https://orcid.org/0009-0005-2597-8763'
+identifiers:
+  - type: url
+    value: >-
+      https://arxiv.org/search/gr-qc?searchtype=author&query=Perez,+P+B
+    description: ArXiv Papers
+repository-code: 'https://github.com/paubanon/Riemannian-GA/tree/main'
+abstract: >-
+  Mathematica code to obtain the main objects of
+  differential geometry using tetrads and Geometric Algebra
+keywords:
+  - Mathematica
+  - Geometric Algebra
+  - Clifford Algebra
+  - Riemannian Geometry
+  - Differential geometry
+  - Kerr-Newman
+license: MIT
